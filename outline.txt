@@ -1,0 +1,11 @@
+start on file directory screen
+implement file directory using a tree data structure
+create a command line argument system in order to create files and basic data structures like the such
+keep file directory root to be the parent containing the exe file(put exe file in req_sys directory)
+check if exe parent is equal to req_sys AND if req_sys parent is equal to VirtualMachine
+
+linux commands probably
+
+have precompiled processing commands that are in a "PATH" like variable environment
+it will be possible to create your own using some language that can add new command line arguments
+using a python-like language that compiles down to C
